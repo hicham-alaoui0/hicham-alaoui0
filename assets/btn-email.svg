@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 44" width="150" height="44" role="img" aria-label="Email: hichamalaoui975@gmail.com">
+<title>Email: hichamalaoui975@gmail.com</title>
+<defs><style>
+.sg{font-family:'HA Grotesk';font-weight:500}
+.mono{font-family:'HA Mono';font-weight:400}
+.monoM{font-family:'HA Mono';font-weight:500}
+@font-face{font-family:'HA Mono';font-weight:500;src:url(data:font/woff2;base64,d09GMgABAAAAAAV4ABEAAAAACsAAAAUeAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwwBmAAVAhECYJzERAKiByHRgE2AiQDEAsQAAQgBQYHIAyDYBs2CVGUDtJygJ8J8dih5S3Kj5aI0VXNLYjd4Pn/3Kr7kk/ikDKnTNrEoU2FmjNrUQu06GpMlNkONllq7CcT8ppUt3ovrnMJX2FwCok37f/CzMvJovJ139q+7szevCOaJd4lEqGSKYlOI90eJt9MQrLQKIlQv6g1bdoJ6T/GJu4UEs19AQTwAAANQYggCOBQSTUyeuzk2VgogBwAQACHDrqi0xSvcMW+7Rup3rhs52aq6YH9lZaQLBHQUloCmLS8oyxmivSxbM017IimM3iBAH90wsgpcblCnE1K/v8dlEgBIACa0jJAHB3QAB0oREeAQhTDAQ8LDUWcMSxjHZtyAMM2FiH3gyvuyT23vb8wJYxlEgmGMpuZdLKYJA/QwlAWsomdgJfrjycTMGTDCNPYNg9N4WkZ9t2XDKFjUog9PfGsyM3JUHKnQkZXpbFJ6B8lEEStT9NlqQSaQGIJdNR2vbE91wpkcZtwt3ib3pe7q8ZlMbnCw5I1cmbpJ8+crezDka7OewANCRQvrkotCVX05cK/Qif+hK1EDOTx9KapztSPNlMf3kTKTC2/gi71K3YmAxIYRyuWm36f5LjBLDPSGYtTYmETw3UnSUthWiv2o7Y7tXqUfMEV41eg4RUB14l6Yyvk6HQ6cRRSqVIXVVeKdPgiTQlsg4W2mikzxEYQdCwcAiK5HDEATACigA2cAm4BABRo69E0yrOAUjVu1HEaPdeMGcv9iOenLlU7d7znpD6QYx+6rhxba32tZe7T5kU730dzWd75oYiTgqOvb0hdEjl22e28CEcvrHV1R3zNxZvnRgCUqttd3LupElU5/S6XVkc/9pRfeGFlkhvx8RhfN+6Veq9MPrz98MDfuv05NvLH1F5Dpi2aOWHS5qk7VrSs29Lzg2nDeyfXDJ65fMuipD5ibtOoPqO6NU1atntcYX3+2eXJbVJWVCat+lgx+5nZzySqnngwce02cd7jvR9PlN4kb3q906EWjYo883pb62tz1TtBt8FdZ83YsGhR31uqyuvqdxfD2aqKt394bubFxWNerS8e8P6YxfMAMigs7Lz8ASEqCOEtQhiTCKFbRRoIhiZD5LMQghC1DNJqfta9x9ZKA220Q4PsY6m+lMooEk2bSYBI7GUGaWqwsxl8TEp5lvrdmqEBURQ1NPSpbiGl9JCnrgFQqR2LEqOUMojJJub75mOJVLJDfpAGrGwaEzM7LyJERY7vaFw0CCl8y7oFBzcLN1R6RTyKRFtvEzSkoYLiOsCNQIdGmlCWkaslV2J0YVQiNgiw0rcSC7DgvBl0wMzLH3AoRO9WmsGhkqhmjnaWk9KUYGdvBcTFoQaBjYe/fPWBJGXjVoWftW4LBa0hVjc8i0TvlcHG/0QE0Lixq+d93yyJDf7PcvWfAD4frOcAfiy+9ibxXFbrr3uAjQaAwK+jVEtQ6IjnQejSMvsfg1nFJDqYCwhg0sbFATjd6A8jXQY6oeViCiCcJoR2Mgg+WrtkiKKtwOW79KIr1ZSQD1jtl4nRnWZqKMbHbsllhLEMpIMawqwGliryPHWG0ZsWyh+rSDKBAS5bDhtFGMlgutNAiShsMJp+tHPfyKSFWiopwBV1FoO2g6ZsAIVthtKLliOoc6iTQ8UEOLCRS4ptJBhGk8h6x2RppLjUxw71oJlKXuuSIcDGbA/hx6IhWwuRncs0nLbSMLoHA7aLhsvDssU8pOIo0N10D71p2kIpHhGgX0o525HaArRTzGVjwO8GAAA=) format('woff2')}
+
+.rise{animation:rise .7s cubic-bezier(.2,.7,.2,1) both}
+.fade{animation:fade .5s ease-out both}
+.draw{animation:draw 2.8s linear .4s both}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs>
+<rect x=".5" y=".5" width="149" height="43" rx="14" fill="#0e0e12" stroke="#25252d"/>
+<g transform="translate(18 14)"><g fill="none" stroke="#e5603f" stroke-width="1.4" stroke-linejoin="round"><rect x="1.5" y="3.2" width="13" height="9.6" rx="1.5"/><path d="M2.2 4.2 8 8.6l5.8-4.4"/></g></g>
+<text x="44" y="27" font-size="13" text-anchor="start" xml:space="preserve"><tspan class="monoM" fill="#ffffff">Email</tspan></text>
+<path d="M124 27l6-6M124.5 21h5.5v5.5" fill="none" stroke="#8e8e9a" stroke-width="1.3" stroke-linecap="round"/>
+</svg>

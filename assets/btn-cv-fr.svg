@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 44" width="150" height="44" role="img" aria-label="CV in French, PDF">
+<title>CV in French, PDF</title>
+<defs><style>
+.sg{font-family:'HA Grotesk';font-weight:500}
+.mono{font-family:'HA Mono';font-weight:400}
+.monoM{font-family:'HA Mono';font-weight:500}
+@font-face{font-family:'HA Mono';font-weight:500;src:url(data:font/woff2;base64,d09GMgABAAAAAAVcABEAAAAACiQAAAUDAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwwBmAAXAhECYJzERAKhnCGJgE2AiQDEgsSAAQgBQYHIAyDYBugCECeB5mbnmalzGVZEUo8+bFrQS0e4HWm70vygeQg60KMVgpMTsuhtRtswKPOV6CJcUJeq5/Gve++pAFSXBMyfIMjQ1poC3VZELjY/4UAOP//e1X/ff/c82Nr0pjioUQkwKH3PmXs0bWtp9qCRKigc9EG2dRTkGKBom7MqT6CApH/3mkAfZOAOiASBIkgIDWSBlq/MT0faBKoABGW6TyIfyc6Z6S3HTSX1vR3giYaXJ9EjfAvREejBrBNuzCcLiMs6OiMsrbOWhQbZATBg7aszdChl+UKk/D/byQhDIi6MkqiFpAjIkKzDEQUpkeyGeitQ6RNzi5OolyFFeRsnv+ofvDrqXqozqpjSH/fIRKlKRYpX641lUocsYlUrkM/UK+OFbaghEtQwi6UcBVKlKhHrZv79keWYPo2jL67cRbCyaIMVaX4Ubfo4jNOd2Noep5vaIk/DWfOwAjTS2hq14wScXq+8TSesDG32FiiW82Pbjl3Nd+oa66pP00maGzqgIbVYpbuOXmNlmd9fkN/urpQGlvOKykJdZdITHySWC2Q1bVy8K2s3uffjZGnb9OdxhN3F+cUnzbXjyiB9W2BvivfcPqyM3H6sqzXFyVujHJWplUnWmSnBmqSMrVGaDyBfRJYXTtKjh61G0b9c03pjTg6rngnlV6axwBXpzHO5fGEDTg0d08GmgiNKFShV6JQDr8o3o3Rp2/LK06IV+q7CjcgsQ6pvsgVfUAH6At04i6gBUBCeAxBEO73DSTJuLR3RzpkSNbep+3sXrX6WUc/CX2a/fHbr4zav/HME6306Ec0P87uefLZEQe2Xn7ro0wvdVKIstSgsU/T/Gh/wTicHjoWwpE0lZ2eFQeYh05hnnrKzKddtywrPxJZKHRL0tYnsguaHxUXpz3TbA1zFZdm3fn8vD60/sb223snQ6Oye5o9Tz893uueeVsVlZkX53YNhfweGb01rrt6sLotSNXMfL3kBnfhYufpAW8QV3j3yul7Puae7uu34/2KVu3cC7tqszOakpmPjLt1fdhpC8WFVc6q5sWfrvzm9e6bTqkK/2sbCqee0W/ec/1LC7foFhdfk1a+e9m7uw6ENRn7o8ujX6rSPPi57KFtp03SgOygB8O8VewoH9526nsAWkg6dPbrv6RE6luC95RgQwODWSO6gb4rCwx9VYK+JZIGqEH9avactSYZI1PUGkKRUYzeiSRB6Ws0+Nj/VgCQidmXLpUR5A4CBKTlLTQJp56lzepGpjOxDCZdX2L1LXG+hRDkBKO37yP0JUzCXH5HjCDwXCWe1Y2t898WukHYXgmhb1S0455IxyfU3VC/J0V6j8XKMoRsCXlWSTDLLWUCPlC+EELk9RV/zX17Rp/l/9GY8Y/w9fK4Gn4Y/Oq7hlWD0aq4jk4RCPygE1FjXkI+AdKnEaIGnVCF8sm9OAUI6DCORY+0J34UjG1i/lXJAIJzSjDNHaSXaFpQ9RwReOk183hoSAmAjmkv4ZrNSkuC7TvTM2SjUC7asCgBajW+K9Eq/mwoWExSSBFyRRU4iWytcN5MpGl/ivWCOLlPoppMT0WImYo0y1aBJcrDmG4lv92QX2QYm2cleBg4iemoHsWiWFKUdSK1mSTIllkfViqmY93hoWufVoIft+hqiKBrNYzGbozCPcLjrsNoISoqYUAJL4nuAvfwR9lFRqYYZNUU3DWhLuC13HXI5XcBAA==) format('woff2')}
+
+.rise{animation:rise .7s cubic-bezier(.2,.7,.2,1) both}
+.fade{animation:fade .5s ease-out both}
+.draw{animation:draw 2.8s linear .4s both}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs>
+<rect x=".5" y=".5" width="149" height="43" rx="14" fill="#0e0e12" stroke="#25252d"/>
+<g transform="translate(18 14)"><g fill="none" stroke="#e5603f" stroke-width="1.4" stroke-linejoin="round"><path d="M3.5 1.5h6l3 3v10h-9z"/><path d="M9.5 1.5v3h3M5.8 8.2h4.4M5.8 10.8h4.4"/></g></g>
+<text x="44" y="27" font-size="13" text-anchor="start" xml:space="preserve"><tspan class="monoM" fill="#ffffff">CV (FR)</tspan></text>
+<path d="M124 27l6-6M124.5 21h5.5v5.5" fill="none" stroke="#8e8e9a" stroke-width="1.3" stroke-linecap="round"/>
+</svg>
